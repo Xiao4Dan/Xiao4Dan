@@ -5,7 +5,7 @@
 -->
 
 ### Hi there, I am Alex 👋
-[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fportfolio-a6110.web.app%2F)](https://portfolio-a6110.web.app)
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fportfolio-a6110.web.app%2F)](https://that-xd.web.app/)
 
 
 ### I am a Ryerson Computer Science New Grad, Front-end && Software Developer
@@ -44,6 +44,6 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][message]
 
-[website]: https://portfolio-a6110.web.app
-[message]: https://portfolio-a6110.web.app/contact
+[website]: https://that-xd.web.app/
+[message]: https://that-xd.web.app/
 [linkedin]: https://www.linkedin.com/in/yuanbo-alex-shi-87a4b11a5/
