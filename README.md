@@ -47,4 +47,4 @@
 
 [website]: https://that-xd.web.app/
 [message]: https://that-xd.web.app/
-[linkedin]: https://www.linkedin.com/in/yuanbo-alex-shi-87a4b11a5/
+[linkedin]: https://www.linkedin.com/in/yuanbo-shi/
